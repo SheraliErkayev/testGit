@@ -34,7 +34,9 @@ git commit
      - bowqasi
 3. Uchinchi
 
-[Qaysidir text](google.com)
+[Qaysidir text](web/script.js)
+
+![This is an image](https://myoctocat.com/assets/image/base-octocat.svg)
 
 
 
