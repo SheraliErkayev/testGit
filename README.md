@@ -18,9 +18,9 @@ This is our repo to study git
 git commit
 ~~~
 
-1.Birinchi
-2.Ikkinchi
-3.Uchinchi
+1. Birinchi
+2. Ikkinchi
+3. Uchinchi
 
 - Birinchi
 - Ikkinchi
