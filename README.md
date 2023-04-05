@@ -27,12 +27,12 @@ git commit
 - Uchinchi
 
 
-1.Birinchi
-2.Ikkinchi
+1. Birinchi
+2. Ikkinchi
   - uniki
   - unikimas
      - bowqasi
-3.Uchinchi
+3. Uchinchi
 
 [Qaysidir text](google.com)
 
